@@ -1,14 +1,19 @@
-
 <h1 align="center">Hi 👋, I'm SHAILEE SHAH</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailee2036&label=Profile%20views&color=0e75b6&style=flat" alt="shailee2036" /> </p>
 
-- 🔭 I’m currently working on **Zomato Clone**
+- 🔭 I’m currently working on [Zomato Clone](https://github.com/shailee2036/ZomatoMaster)
 
-- 🌱 I’m currently learning **React js,**
+- 🌱 I’m currently learning **Javascript,ReactJs,NodeJs**
+
+- 👨‍💻 All of my projects are available at [https://happypurplesite.shaileeshah.repl.co/](https://happypurplesite.shaileeshah.repl.co/)
+
+- 💬 Ask me about **Object Oriented Programming**
 
 - 📫 How to reach me **shailee20edu@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oWQ-E6WcONhmIPC88V6qZy9AS7K3Yh5Z/view?usp=drivesdk](https://drive.google.com/file/d/1oWQ-E6WcONhmIPC88V6qZy9AS7K3Yh5Z/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
