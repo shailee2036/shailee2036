@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHAILEE SHAH</h1>
-<h3 align="center">A passionate data science enthusiast</h3>
+<h3 align="center">A passionate Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailee2036&label=Profile%20views&color=0e75b6&style=flat" alt="shailee2036" /> </p>
 
