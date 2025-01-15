@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Object Oriented Programming**
 
-- 📫 How to reach me **shailee20edu@gmail.com**
+- 📫 How to reach me **sshah257@asu.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oWQ-E6WcONhmIPC88V6qZy9AS7K3Yh5Z/view?usp=drivesdk](https://drive.google.com/file/d/1oWQ-E6WcONhmIPC88V6qZy9AS7K3Yh5Z/view?usp=drivesdk)
 
