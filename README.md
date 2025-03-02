@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailee2036&label=Profile%20views&color=0e75b6&style=flat" alt="shailee2036" /> </p>
 
-- 🔭 I’m currently working on [Zomato Clone](https://github.com/shailee2036/ZomatoMaster)
+- 🔭 I’m currently working on Data Science projects. 
 
-- 🌱 I’m currently learning **Javascript,ReactJs,NodeJs**
+- 🌱 I’m currently learning **Data Visualisation, Database Management, Data Mining**
 
-- 👨‍💻 All of my projects are available at [https://happypurplesite.shaileeshah.repl.co/](https://happypurplesite.shaileeshah.repl.co/)
-
-- 💬 Ask me about **Object Oriented Programming**
+- 👨‍💻 All of my projects are available at [Github](https://github.com/shailee2036)
 
 - 📫 How to reach me **sshah257@asu.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oWQ-E6WcONhmIPC88V6qZy9AS7K3Yh5Z/view?usp=drivesdk](https://drive.google.com/file/d/1oWQ-E6WcONhmIPC88V6qZy9AS7K3Yh5Z/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oWQ-E6WcONhmIPC88V6qZy9AS7K3Yh5Z/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
