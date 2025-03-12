@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sshah257@asu.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/2/home)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i6D2-uC8Xr7Ih-ViVAuLZEeNTrJVLsqP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
